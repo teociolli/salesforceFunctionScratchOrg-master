@@ -1,0 +1,13 @@
+{
+  "orgName": "ajiteshpratap.singh companyV1",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi", "Functions"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
